@@ -13,7 +13,7 @@
     "@strapi/plugin-documentation": "^4.3.4",
     "@strapi/plugin-i18n": "4.7.0",
     "@strapi/plugin-users-permissions": "4.7.0",
-    "@strapi/provider-upload-cloudinary": "4..7.0",
+    "@strapi/provider-upload-cloudinary": "4.7.0",
     "@strapi/provider-upload-local": "^4.7.0",
     "@strapi/strapi": "4.7.0",
     "pg": "8.7.3",
